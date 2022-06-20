@@ -1,4 +1,6 @@
-# Installing LunarVim on Raspberry Pi 4 (ARMv7)
+# Installing LunarVim on Raspberry Pi 4 (tested with ARMv7, 06/19/2022)
+
+![image](https://user-images.githubusercontent.com/23065167/174519568-08b45e19-a64d-41bb-818e-5a86433d046e.png)
 
 1. Install Rust:
 
